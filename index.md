@@ -24,6 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
 
 # 机关一支部1-4月学习内容和支部工作
 ---
@@ -109,8 +110,6 @@ Syntax highlighted code block
 > * 党支部书记重点就大讨论6个环节（动员安排、学习研讨、支部组织生活会、听先进典型报告、立足岗位做贡献、支部范围小结）中存在的问题，围绕活动开展的情况和效果进行总结
 > * 每位党员同志以大讨论活动为契机、实现自我提升为主题，结合工作岗位和工作职责作交流发言
 
-
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
